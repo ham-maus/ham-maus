@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi there, I’m ham
 
-<!--
-**ham-maus/ham-maus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity game developer exploring small to mid-scale projects  
+💻 Focused on gameplay mechanics, systems design, and optimization  
+🌱 Currently learning C# best practices and shader programming  
+👯 Open to collabs on fun game jams or indie projects  
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools
+- Unity / C# / Blender  
+- Git / GitHub  
+- Light automation & workflow tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Stuff
+- I love making fast, clean, playable prototypes  
+- Sometimes my Zen tabs get out of control 😅  
+- Chill phonk and gaming vibes are my fuel
